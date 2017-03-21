@@ -1,2 +1,2 @@
 # InTeG
-Mijne site
+New website for InTeG Automation
