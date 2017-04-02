@@ -28,8 +28,8 @@ html
 .aboutus
 {
     height: 100%;
-    /*padding-top: 150px;*/
-    /*text-align: center;*/
+    padding-top: 150px;
+    text-align: center;
     /*background-color: red;*/
 }
 
@@ -40,16 +40,16 @@ html
 
 .projects
 {
-    height: 100%;
-    /*padding-top: 150px;*/
+    height: 1000px;
+    padding-top: 150px;
     text-align: center;
-/*    background-color: green;*/
+    background-color: green;
 }
 
 .contact
 {
-    height: 100%;
-    /*padding-top: 150px;*/
+    height: 1000px;
+    padding-top: 150px;
     text-align: center;
     background-color: pink;
 }
