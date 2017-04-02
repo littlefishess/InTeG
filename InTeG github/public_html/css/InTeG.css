@@ -25,6 +25,11 @@ html
     margin-bottom: 0;
 }
 
+.wrapper
+{
+    margin-top: 50px;
+}
+
 .aboutus
 {
     height: 100%;
